@@ -1,0 +1,13 @@
+div{
+    text-align: center;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+    background-color: rgb(225, 156, 53);
+    padding: 10px;
+    border-radius: 30px;
+    margin: 50px;
+}
